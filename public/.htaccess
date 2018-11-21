@@ -1,0 +1,5 @@
+RewriteEngine on 
+
+
+RewriteCond %{REQUEST_URI} !/.(?:css|js|png)$ [NC]
+RewriteRule ^../$ - [L,F]

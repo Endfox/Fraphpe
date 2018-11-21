@@ -1,0 +1,56 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.image{
+	width:8%;
+	margin:auto;
+	margin-top:2%;
+}
+
+.nombre{
+	width:50%;
+	height: auto;
+	margin: auto;
+	margin-top: 4%;	
+}
+
+.frame,.slogan{
+	width: 60%;
+	color:black;
+	font-family:"sarai";
+	font-size: 100px;
+	letter-spacing: 2px;
+	padding-left:-50px;
+	text-align: center;
+	padding:auto;
+	margin:auto;
+}
+.frame{
+	border-bottom: solid 1px rgba(0,0,0,0.2);
+	padding-bottom: 2%;
+	margin-bottom: 2%;
+}
+.nombre{
+	padding:2%;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+}
+.nombre:hover{
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.6);
+}
+.slogan{
+	width:80%;
+	margin:auto;
+	margin-top:1%;
+	padding:auto;
+	font-size: 50px;
+	letter-spacing: 0px;
+}
+.creathor{
+width:auto;
+margin:auto;
+text-align: center;
+margin-top: 2%;
+font-size: 20px;
+}
