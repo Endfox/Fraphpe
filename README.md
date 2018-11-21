@@ -21,4 +21,4 @@ y POO.
 - Quien quiera usar un framework php ligero.
 - Quien quiera aprender a usar php MVC de una forma sencilla y mejor estructurada.
 
-* **Fraphpe was developed by Rubén Gallegos/@Endfox** 
+* **Fraphpe was developed by Rubén Gallegos/https://github.com/Endfox** 
