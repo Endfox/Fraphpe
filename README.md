@@ -1,6 +1,6 @@
 # Fraphpe
 
-##English.
+## English.
 Fraphpe is a miniframework or a light framework development in php 7, with MVC and OOP.
 
 **Who can use it?**
@@ -9,7 +9,7 @@ Fraphpe is a miniframework or a light framework development in php 7, with MVC a
 - To learn how to use php with mvc and have a better structured application.
 
 
-##Español.
+## Español.
 
 Fraphpe es un miniframework o un framework ligero desarrollado con php versión 7, usando MVC
 y POO.
